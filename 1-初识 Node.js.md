@@ -28,6 +28,6 @@
    + 打开终端
    + 输入 node <font color="blue">要执行的 js 文件的路径</font>
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220913222558069.png" alt="image-20220913222558069" style="zoom:50%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220913222558069.png" alt="image-20220913222558069" style="zoom:50%;" />
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220913222524259.png" alt="image-20220913222524259" style="zoom: 67%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220913222524259.png" alt="image-20220913222524259" style="zoom: 67%;" />

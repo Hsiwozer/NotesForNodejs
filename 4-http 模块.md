@@ -70,7 +70,7 @@
    })
    ~~~
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220916232623370.png" alt="image-20220916232623370" style="zoom:50%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220916232623370.png" alt="image-20220916232623370" style="zoom:50%;" />
 
    
 
@@ -91,13 +91,13 @@
    })
    ~~~
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220916232817656.png" alt="image-20220916232817656" style="zoom:50%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220916232817656.png" alt="image-20220916232817656" style="zoom:50%;" />
 
    
 
 5. #### 解决<font color="red">中文乱码</font>问题
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220916233251418.png" alt="image-20220916233251418" style="zoom:50%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220916233251418.png" alt="image-20220916233251418" style="zoom:50%;" />
 
    ~~~js
    const http = require('http')
@@ -117,7 +117,7 @@
    })
    ~~~
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220916233448638.png" alt="image-20220916233448638" style="zoom:50%;" />
+   <img src="/Users/hsiwozer/NotesInTypora/FrontEnd/NotesForNodejs/images/:Users:hsiwozer:Library:Application Support:typora-user-images:image-20220916233448638.png" alt="image-20220916233448638" style="zoom:50%;" />
 
    
 
